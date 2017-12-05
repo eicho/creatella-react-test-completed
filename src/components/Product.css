@@ -1,0 +1,11 @@
+.face {
+    height: 120px;
+    text-align: center;
+}
+.card {
+    height: 200px;
+}
+  
+.card label{
+    padding-right: 10px;
+}
